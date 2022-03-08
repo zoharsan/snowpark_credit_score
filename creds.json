@@ -1,0 +1,8 @@
+{
+  "account": "<account-name>",
+  "user": "<user>",
+  "password": "<password>",
+  "warehouse": "<warehouse-name>",
+  "database": "CREDIT_BANK",
+  "schema": "PUBLIC"
+}
